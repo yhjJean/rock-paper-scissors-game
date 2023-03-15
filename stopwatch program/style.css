@@ -1,0 +1,35 @@
+.timerBtn{
+    width: 80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: #cb1818;
+    color: white;
+    cursor: pointer;
+    font-family: consolas, monospace;
+    margin-bottom: 15px;
+}
+#timeDisplay{
+    font-size: 75px;
+    color: #1ddeae;
+    font-family: consolas, monospace;
+}
+#timeContainer{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: #0c3d86;
+}
+#elapsed{
+    margin-top: 50px;
+    text-align: center;
+}
+.elapsedTimeDisplay{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border: 2px solid;
+    background: #1ddeae;
+    text-align: center;
+    border-radius: 5px;
+}
